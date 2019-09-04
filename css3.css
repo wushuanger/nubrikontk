@@ -1,0 +1,58 @@
+#Body {width: 960px; background: #000000;}
+
+#container {width:960px; margin: 0 auto;background: #000000;}
+
+#header1 {width: 960px; height: 30px; background: #999;font: 12px arial; color: #ffffff; text-align: right;padding: 20px 0 0 0;}
+#header1 a {font: 12px arial; color: #fff; outline: none;text-decoration: none; }
+#header2 {width: 960px; height: 80px; background:url(logo.jpg);}
+#header3 {width: 960px; height: 35px; background: #F79D00;}
+.mainmenu {width:auto}
+.mainmenu ul {width: 900px; height: 43px; background: url(images/mainmenubg.jpg);list-style:none;margin:0 0 0 29px;}
+.mainmenu ul li{float:left; margin:7pt 0 0 0;}
+.mainmenu ul li a {padding:24px;           
+             text-align:left; 
+             font: 12px arial;
+             font-weight: bold;
+             text-decoration: none;
+             color: #ffffff;
+             outline: none;
+}
+
+#header4 {width: 960px; height: 180px; background:url(index.jpg);}
+
+#pagebody {width: 960px; height: 750px; background: #ffffff;}
+
+.sidebar {float: left;  width: 250px; height: 500px; background:url(sidebarbg.jpg); margin: 20px auto;}
+.tittle {font: 16px arial; color: #666666;}
+.tittle a {font: 16px arial; color: #666; text-decoration: none;font-weight: bold;}
+.productmenu {width: 250px; height: 432px; font:13px arial; font-weight: bold; color: #666;}
+.productmenu ul {list-style:none;margin:0px; }
+.productmenu ul li {display: block;padding: 0 0 0 25px;}
+.productmenu ul li a {padding: auto;
+	            font: 13px arial; 
+				display: block; 
+                height: 19px;
+                text-align: left;
+				text-decoration: none; 
+				color: #333;
+				}
+.blank {float: left; width: 60px; height: 750px;}				
+.mainbody {float: left; width: 600px;height:750px; font: 13px arial; color:#666;}
+.blank1 {float: left; width: 50px; height: 750px;}
+
+
+#footer {width: 960px; Height: 100px; background: #999;}
+.footermenu {font: 12px arial; color: #ffffff; }
+.footermenu ul {padding: 20px auto;
+                margin:0 0 0 10px;
+               font: 12px arial;
+			   text-align: center;
+			   color: #ffffff;}
+.footermenu ul li {float:left; margin: 40px 0 40px 0; list-style:none;}
+.footermenu ul li a {padding: 5px;
+               font: 12px arial;
+			   text-align: center;
+			   color: #ffffff;
+	           }
+
+

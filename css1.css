@@ -1,0 +1,54 @@
+#Body {width: 960px; background: #000000;}
+
+#container {width:960px; margin: 0 auto;background: #000000;}
+
+#header1 {width: 960px; height: 30px; background: #999;font: 12px arial; color: #ffffff; text-align: right;padding: 20px 0 0 0;}
+#header1 a {font: 12px arial; color: #fff; outline: none;text-decoration: none; }
+#header2 {width: 960px; height: 80px; background:url(logo.jpg);}
+#header3 {width: 960px; height: 35px; background: #F79D00;}
+.mainmenu {width:auto}
+.mainmenu ul {width: 900px; height: 43px; background: url(images/mainmenubg.jpg);list-style:none;margin:0 0 0 29px;}
+.mainmenu ul li{float:left; margin:7pt 0 0 0;}
+.mainmenu ul li a {padding:24px;           
+             text-align:left; 
+             font: 12px arial;
+             font-weight: bold;
+             text-decoration: none;
+             color: #ffffff;
+             outline: none;
+}
+
+#header4 {width: 960px; height: 180px; background:url(index1.jpg);}
+
+#pagebody {width: 960px; height: 230px; background: #ffffff;}
+
+.blank {float: left; width: 30px; height: 230px;}				
+.mainbody {float: left; width: 900px;height:230px; font: 13px arial; color:#666;padding: 25px 0 0 0;}
+.blank1 {float: left; width: 30px; height: 230px;}
+.productmenu { width: 960px; height: 40px; background: #010080; font: 12px arial;font-weight: bold;  color: #ffffff;padding: 20px 0 0 0; text-align: center;}
+
+.productmenu ul {list-style:none;margin:0px;}
+.productmenu ul li {float: left; padding: 0px;}
+.productmenu ul li a {padding: 0px;
+	            font: 12px arial; 
+                text-align: center;
+				
+				font-weight: bold;
+				text-decoration: none; 
+				color: #fff;
+				}
+
+#footer {width: 960px; Height: 100px; background: #999;}
+.footermenu {font: 12px arial; color: #ffffff; }
+.footermenu ul {padding: 20px auto;
+                margin:0 0 0 10px;
+               font: 12px arial;
+			   text-align: center;
+			   color: #ffffff;}
+.footermenu ul li {float:left; margin: 40px 0 40px 0; list-style:none;}
+.footermenu ul li a {padding: 5px;
+               font: 12px arial;
+			   text-align: center;
+			   color: #ffffff;
+	           }
+
